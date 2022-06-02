@@ -1,0 +1,11 @@
+.github-panel {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  position: fixed;
+  background-color: white;
+  right: 0;
+  top: 50%;
+  display: flex;
+  margin: auto;
+}
