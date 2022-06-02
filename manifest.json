@@ -1,0 +1,10 @@
+{
+  "name": "GitHub Approve Merger",
+  "version": "0.1",
+  "description": "TBD",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
